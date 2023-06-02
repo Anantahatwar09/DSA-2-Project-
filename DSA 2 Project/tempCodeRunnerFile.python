@@ -1,0 +1,2 @@
+import tkintermapview
+print(tkintermapview.__file__)
