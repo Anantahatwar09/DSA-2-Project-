@@ -46,7 +46,7 @@ The Routing project in C uses Dijkstra's algorithm to find the shortest path on 
    - The first line of each set contains 2 space seperated integers denoting the start and end vertices of the road.
    - The next line contains 3 space seperated values denoting the length (in kilometers), the speed limit (in kmph) and the traffic density (number of cars per kilometer) of the given road.
    - 
-### visuual representation of graph
+### visual representation of graph
 By utilizing Tkinter's canvas widget, you can draw various shapes, lines, and curves to represent data points, and then use different colors, sizes, and labels to enhance the visual representation. This enables you to create graphs.
      
      
